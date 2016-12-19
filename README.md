@@ -1,4 +1,4 @@
-# metalvspop
+# Metal Vs Pop Lyrics - Machine Learning using R
 R Project to distinguish between Metal songs and Pop songs -- only based in their lyrics.
 
 The directories contain lyrics downloaded from AzLyrics website using AzLyrics Downloader (https://github.com/joaomrcarvalho/AzLyrics-Downloader).
