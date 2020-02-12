@@ -9,7 +9,7 @@ The directories contain lyrics downloaded from AzLyrics website using AzLyrics D
 	- "metalTest" -> lyrics from metal bands used to test the classifiers obtained
 	- "popTest" -> lyrics from metal bands used to test the classifiers obtained
 
-Validation data:
+- Validation data:
 	- "metalTestAlternativo" -> lyrics from metal bands used to test the classifiers obtained
 	- "popTestAlternativo" -> lyrics from metal bands used to test the classifiers obtained
 	- "metalTestAlternativo2" -> lyrics from metal bands used to test the classifiers obtained
